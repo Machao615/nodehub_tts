@@ -19,7 +19,7 @@ For detailed technical documentation and latest updates, please refer to:
 ### Prerequisites
 Ensure that your RDK system has TROS (TogetherROS) environment installed.
 
-> **📌 Note:** After installing TROS, the system already has the hobot_tts package built-in and can be used directly. The following compilation steps are only needed if you require custom development or want to use the latest version.
+> **📌 Note:** After installing TROS, if the system already has the hobot_tts package built-in and can be used directly. The following compilation steps are only needed if you require custom development or want to use the latest version.
 
 ### Get Source Code
 ```bash
